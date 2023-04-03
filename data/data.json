@@ -1,0 +1,255 @@
+[
+    {
+        "routeNumber": "001",
+        "routeName": "Маршрут 1",
+        "startTime": "2022-03-27 10:00:00",
+        "endTime": "2022-03-27 12:00:00",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "polylineCoords": [
+            {
+                "latitude": 49.980845,
+                "longitude": 36.252792
+            },
+            {
+                "latitude": 49.982106,
+                "longitude": 36.250613
+            },
+            {
+                "latitude": 49.982529,
+                "longitude": 36.246376
+            },
+            {
+                "latitude": 49.9786,
+                "longitude": 36.245709
+            },
+            {
+                "latitude": 49.975703,
+                "longitude": 36.250982
+            },
+            {
+                "latitude": 49.975593,
+                "longitude": 36.255436
+            },
+            {
+                "latitude": 49.978473,
+                "longitude": 36.260067
+            },
+            {
+                "latitude": 49.981903,
+                "longitude": 36.262361
+            }
+        ],
+        "coords": {
+            "northeast": {
+                "latitude": 49.982529,
+                "longitude": 36.262361
+            },
+            "southwest": {
+                "latitude": 49.975593,
+                "longitude": 36.245709
+            }
+        }
+    },
+    {
+        "routeNumber": "002",
+        "routeName": "Маршрут 2",
+        "startTime": "2022-03-28 10:00:00",
+        "endTime": "2022-03-28 12:00:00",
+        "text": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "polylineCoords": [
+            {
+                "latitude": 49.989025,
+                "longitude": 36.232015
+            },
+            {
+                "latitude": 49.989194,
+                "longitude": 36.225872
+            },
+            {
+                "latitude": 49.986768,
+                "longitude": 36.219729
+            },
+            {
+                "latitude": 49.982605,
+                "longitude": 36.214684
+            },
+            {
+                "latitude": 49.979979,
+                "longitude": 36.212725
+            },
+            {
+                "latitude": 49.974412,
+                "longitude": 36.209462
+            },
+            {
+                "latitude": 49.970283,
+                "longitude": 36.211336
+            },
+            {
+                "latitude": 49.965783,
+                "longitude": 36.217395
+            },
+            {
+                "latitude": 49.96124,
+                "longitude": 36.22604
+            },
+            {
+                "latitude": 49.956253,
+                "longitude": 36.238183
+            },
+            {
+                "latitude": 49.957516,
+                "longitude": 36.24923
+            },
+            {
+                "latitude": 49.961086,
+                "longitude": 36.25888
+            },
+            {
+                "latitude": 49.9644,
+                "longitude": 36.263343
+            },
+            {
+                "latitude": 49.970454,
+                "longitude": 36.267906
+            },
+            {
+                "latitude": 49.976144,
+                "longitude": 36.268329
+            },
+            {
+                "latitude": 49.981463,
+                "longitude": 36.265105
+            },
+            {
+                "latitude": 49.983381,
+                "longitude": 36.259158
+            },
+            {
+                "latitude": 49.983739,
+                "longitude": 36.252861
+            },
+            {
+                "latitude": 49.981489,
+                "longitude": 36.248196
+            },
+            {
+                "latitude": 49.979193,
+                "longitude": 36.242373
+            },
+            {
+                "latitude": 49.979609,
+                "longitude": 36.23798
+            },
+            {
+                "latitude": 49.983219,
+                "longitude": 36.232087
+            }
+        ],
+        "coords": {
+            "northeast": {
+                "latitude": 49.989194,
+                "longitude": 36.268329
+            },
+            "southwest": {
+                "latitude": 49.956253,
+                "longitude": 36.209462
+            }
+        }
+    },
+    {
+        "routeNumber": "003",
+        "routeName": "Маршрут 3",
+        "startTime": "2022-03-29 10:00:00",
+        "endTime": "2022-03-29 12:00:00",
+        "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "polylineCoords": [
+            {
+                "latitude": 49.985539,
+                "longitude": 36.21182
+            },
+            {
+                "latitude": 49.984069,
+                "longitude": 36.216495
+            },
+            {
+                "latitude": 49.980715,
+                "longitude": 36.220472
+            },
+            {
+                "latitude": 49.977675,
+                "longitude": 36.22126
+            },
+            {
+                "latitude": 49.973527,
+                "longitude": 36.222619
+            },
+            {
+                "latitude": 49.969105,
+                "longitude": 36.225429
+            },
+            {
+                "latitude": 49.965008,
+                "longitude": 36.229936
+            },
+            {
+                "latitude": 49.961473,
+                "longitude": 36.236796
+            },
+            {
+                "latitude": 49.960228,
+                "longitude": 36.244758
+            },
+            {
+                "latitude": 49.962266,
+                "longitude": 36.252603
+            },
+            {
+                "latitude": 49.966926,
+                "longitude": 36.258207
+            },
+            {
+                "latitude": 49.972491,
+                "longitude": 36.260386
+            },
+            {
+                "latitude": 49.97819,
+                "longitude": 36.260466
+            },
+            {
+                "latitude": 49.982528,
+                "longitude": 36.257543
+            },
+            {
+                "latitude": 49.985614,
+                "longitude": 36.253261
+            },
+            {
+                "latitude": 49.988201,
+                "longitude": 36.246573
+            },
+            {
+                "latitude": 49.990557,
+                "longitude": 36.238957
+            },
+            {
+                "latitude": 49.991751,
+                "longitude": 36.231571
+            },
+            {
+                "latitude": 49.991477,
+                "longitude": 36.224497
+            }
+        ],
+        "coords": {
+            "northeast": {
+                "latitude": 49.991751,
+                "longitude": 36.260466
+            },
+            "southwest": {
+                "latitude": 49.960228,
+                "longitude": 36.222619
+            }
+        }
+    }
+]

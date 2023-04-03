@@ -1,0 +1,32 @@
+{
+    "routePoints": [
+        {
+            "name": "Hospital",
+            "city": "New York",
+            "country": "USA",
+            "latitude": 37.78825,
+            "longitude": -122.4324
+        },
+        {
+            "name": "School",
+            "city": "Paris",
+            "country": "France",
+            "latitude": 37.7749,
+            "longitude": -122.4194
+        },
+        {
+            "name": "Flower shop",
+            "city": "London",
+            "country": "UK",
+            "latitude": 37.78825,
+            "longitude": -122.4324
+        },
+        {
+            "name": "Ministry",
+            "city": "Tokyo",
+            "country": "Japan",
+            "latitude": 37.7749,
+            "longitude": -122.4194
+        }
+    ]
+}
